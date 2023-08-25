@@ -3,7 +3,7 @@
 для корректной работы функций/классов необходимо добавить файл database.ini с информацией:
 [postgresql]
 host=localhost
-user=postgres/либо иной ваше имя, по котором зарегистрированы в pgAdmin
+user=postgres/либо иной ваше имя, по которому зарегистрированы в pgAdmin
 password=ваш пароль 
 port=5432
 
